@@ -14,16 +14,16 @@ It demonstrates key concepts in 3D graphics including:
 Here are a few screenshots demonstrating the 3D scene and user interactions:
 
 - **Gouraud/Diffuse**
-- ![Gouraud/Diffuse](screenshots/Gouraud-Diffuse.png)
+![Gouraud/Diffuse](screenshots/Gouraud-Diffuse.png)
 
 - **Gouraud/Specular**
-- ![Gouraud/Specular](screenshots/Gouraud-Specular.png)
+![Gouraud/Specular](screenshots/Gouraud-Specular.png)
 
 - **Phong/Specular**
-- ![Phong/Specular](screenshots/Phong-Specular.png)
+![Phong/Specular](screenshots/Phong-Specular.png)
 
 - **Transformation of some objects + change of light position**
-- ![Transformation of some objects + change of light position](screenshots/t.png)
+![Transformation of some objects + change of light position](screenshots/t.png)
 
 
 ## Controls
