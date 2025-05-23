@@ -14,7 +14,7 @@ It demonstrates key concepts in 3D graphics including:
 Here are a few screenshots demonstrating the 3D scene and user interactions:
 
 - **Gouraud/Diffuse**
-![Gouraud/Diffuse](screenshots/Gouraud-Diffuse.png)
+  ![Gouraud/Diffuse](screenshots/Gouraud-Diffuse.png)
 
 - **Gouraud/Specular**
 ![Gouraud/Specular](screenshots/Gouraud-Specular.png)
